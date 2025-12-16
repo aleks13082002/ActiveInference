@@ -6,8 +6,8 @@ import torch
 import random as ran
 from typing import Dict, Optional
 
-wandb.login(key="50135bcebab208e2a5caa7a8cb9c1037e2abcd2c")
-wandb.init(project="drone_telemetry")
+wandb.login(key="")
+wandb.init(project="")
 
 
 
@@ -453,3 +453,4 @@ if __name__ == "__main__":
         countInteractions += 1
         global_step += 1
         time.sleep(0.05)
+
