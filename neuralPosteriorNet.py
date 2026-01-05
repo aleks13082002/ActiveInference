@@ -12,8 +12,8 @@ from typing import Dict, Optional, List, Tuple
 # =========================
 
 # =========================
-wandb.login(key="50135bcebab208e2a5caa7a8cb9c1037e2abcd2c")
-wandb.init(project="drone_telemetry_posterior_net")
+wandb.login(key="")
+wandb.init(project="")
 
 
 # =========================
