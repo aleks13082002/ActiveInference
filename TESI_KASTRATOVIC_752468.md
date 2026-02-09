@@ -1,20 +1,3 @@
-## UNIVERSITA' DEGLI STUDI DELL'INSUBRIA DIPARTIMENTO DI SCIENZE TEORICHE E APPLICATE CORSO DI STUDIO DI INFORMATICA
-
-<!-- image -->
-
-## Structural Inductive Biases per la cyberdefence: un caso di studio in contesto UAV
-
-Relatore:
-
-Dr. Jesús Cevallos
-
-Correlatore:
-
-Prof.ssa Alessandra Rizzardi
-
-Candidato Aleksandar Kastratovic
-
-Matricola n. 752468
 
 ## Indice
 
@@ -652,4 +635,5 @@ Infine, pur essendo stato presentato in un contesto UA V , questo impianto è ge
 - [18] Lin, L.-J., 'Self-improving reactive agents based on reinforcement learning, planning and teaching,' Machine Learning , 1992.
 - [19] Mnih, V., et al., 'Human-level control through deep reinforcement learning,' Nature , 2015.
 - [20] Rezende, D. J., Mohamed, S., &amp; Wierstra, D., 'Stochastic Backpropagation and Approximate Inference in Deep Generative Models,' 2014.
+
 - [21] Stoian, V., et al., "Active Inference for Autonomous UA V Inspection", 2023.
